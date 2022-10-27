@@ -2,7 +2,7 @@ import { Feedback } from './Feedback';
 
 export const App = () => {
   return (
-    <div>
+    <div className="">
       <Feedback />
     </div>
   );
